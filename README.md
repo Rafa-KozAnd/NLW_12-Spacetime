@@ -16,12 +16,20 @@
 - Resume: ;
 - Obs: Example;
 - Version: v.1.0.0
-
 - Last Update Date: 19/05/2023.
+
+## 💻 Projeto
+
+Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ##
 
-- PrintScreen:
 <div>
   <img align="center" height="600" widht="600" src="/Print/Print1.jpg" />
+  <br>
+  <img align="center" height="600" widht="600" src="/Print/Wallpaper.png" />
 </div><br>
